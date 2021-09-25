@@ -1,0 +1,7 @@
+# Ignore executables
+**/*.out
+
+# Ignore any files with . precedence besides the gitignore
+.*
+!.gitignore
+
